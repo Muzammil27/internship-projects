@@ -1,2 +1,2 @@
 # ybi-internship-projects
-internship projects 
+ ybi foundations internship projects 
